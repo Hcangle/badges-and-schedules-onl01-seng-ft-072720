@@ -12,3 +12,10 @@ end
     puts "Hello, #{name}! You'll be assigned to room #{room_number}!"
   end
 end
+
+def assign_rooms(attendees)
+   assignments = []
+  room_assignments.each_with_index |speaker, room_number|
+    new_array << "Hello, #{speaker}! You'll be assigned to room #{room_number}!"}
+  return new_array
+  end
