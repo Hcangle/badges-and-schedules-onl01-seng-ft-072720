@@ -11,3 +11,5 @@ end
     counter = 1 
     names.each do |name|
     puts "Hello, #{name}! You'll be assigned to room #{room_number}!"
+  end
+end
