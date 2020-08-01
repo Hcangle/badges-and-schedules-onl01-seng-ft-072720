@@ -8,5 +8,6 @@ def batch_badge_creator(attendees)
   end
 end
   def assign_rooms(name, room_number)
+    counter = 1 
     
     puts "Hello, #{name}! You'll be assigned to room #{room_number}!"
